@@ -7,14 +7,19 @@ https://play.google.com/store/apps/developer?id=wynkDevDev
 
 ## my web site
 https://emotionapp.z11.web.core.windows.net
+
 https://blogwywypress.azurewebsites.net
+
 https://wynkwebappserver3636.azurewebsites.net
 
 ## my api
+
 ### get
 https://ap-northeast-1.console.aws.amazon.com/lambda/home?region=ap-northeast-1#/functions/escapeScoreGet?tab=configuration
+
 ### post
 https://w3p76muk55.execute-api.ap-northeast-1.amazonaws.com/default/registerEvaluation
+
 https://9hino93qc7.execute-api.ap-northeast-1.amazonaws.com/default/escapeScoreRegister
 
 <!--

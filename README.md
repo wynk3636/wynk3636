@@ -5,6 +5,9 @@
 ## my store
 https://play.google.com/store/apps/developer?id=wynkDevDev
 
+## my Qiita
+https://qiita.com/wynk3636
+
 ## my web site
 https://emotionapp.z11.web.core.windows.net
 

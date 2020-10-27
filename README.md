@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wynk3636)](https://github.com/wynk3636/github-readme-stats)
 
 <!--
 **wynk3636/wynk3636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,11 +11,13 @@ https://qiita.com/wynk3636
 ## my web site
 https://emotionapp.z11.web.core.windows.net
 
+https://springsampleloginservice.azurewebsites.net/login
+
+https://dotnetcoresampledddapplication.azurewebsites.net/SwaggerPage/index.html
+
 https://blogwywypress.azurewebsites.net
 
 https://wynkwebappserver3636.azurewebsites.net
-
-http://springsampleloginservice.azurewebsites.net/login
 
 ## my api
 

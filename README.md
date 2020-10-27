@@ -15,6 +15,8 @@ https://blogwywypress.azurewebsites.net
 
 https://wynkwebappserver3636.azurewebsites.net
 
+http://springsampleloginservice.azurewebsites.net/login
+
 ## my api
 
 ### get
